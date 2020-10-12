@@ -3,7 +3,6 @@
 
 menu:
 - {name: 'Projects', url: ''}
-- {name: 'Blog', url: 'pages/blog.html'}
 - {name: 'About', url: 'pages/about.html'}
 - {name: 'Contact', url: 'pages/contact.html'}
 
@@ -64,10 +63,8 @@ projects:
 # Contact Section
 
 social:
-- {icon: 'twitter', link: '#'}
-- {icon: 'instagram', link: '#'}
-- {icon: 'github', link: '#'}
-- {icon: 'linkedin', link: '#'}
-- {icon: 'envelope', link: 'mailto:#'}
+- {icon: 'github', link: 'https://github.com/priscillaahn'}
+- {icon: 'linkedin', link: 'https://www.linkedin.com/in/priscillaahn/'}
+- {icon: 'envelope', link: 'mailto:pahn@clarku.edu'}
 
 # social network icons available: 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'
