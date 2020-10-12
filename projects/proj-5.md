@@ -3,6 +3,6 @@ layout: post
 title: 'Project Five'
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus porta tortor eros, et cursus diam feugiat eu. Mauris euismod volutpat leo porttitor congue. Curabitur quis purus dignissim, sagittis enim non, interdum enim. Sed vitae nibh sed ante luctus finibus. In fermentum arcu eget volutpat blandit. Nullam leo magna, luctus ac consequat ut, ultrices quis quam. Nullam orci magna, tincidunt consequat arcu vel, facilisis hendrerit lectus. Mauris dapibus, lorem et tincidunt bibendum, massa ipsum consectetur elit, at venenatis nulla nulla id ante.
+For this project, we learned how to create and embed a GeoJSON app. This web map highlights the green spaces along the [Worcester East-West Trail](https://www.parkspirit.org/the-eastwest-trail).
 
-<script src="https://embed.github.com/view/geojson/priscillaahn/priscillaahn.github.io/master/greenspaces.geojson"></script>
+<script src="<script src="https://gist.github.com/priscillaahn/2984a90a949ece81612133c01d6c4bb3.js"></script>"></script>

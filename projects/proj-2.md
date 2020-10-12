@@ -1,8 +1,13 @@
 ---
 layout: post
-title: 'Project Two'
+title: 'Project Two: Knightlab Storymap'
 ---
 
-Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed ultrices tortor nec nunc hendrerit rutrum. Nullam congue nulla eu placerat convallis. Morbi volutpat dolor nunc, nec dignissim neque condimentum nec. Nullam vel sem egestas augue tempus pulvinar in vitae neque. Ut mattis tincidunt felis, laoreet aliquet ex mollis ac. Sed sit amet nisl id enim blandit facilisis. Maecenas quis ultrices sapien, ac ullamcorper mi.
+Similar to Project One, we had to use the Knight Lab Foundation Storymap application to tell a story with a spatial, geographic focus.
+I chose to trace the founding of Doctors Without Borders (Medecins Sans Frontiers) because
+<ol>
+  <li> I find them inspirational </li>
+  <li> They're an international organization so their missions are spread throughout the world </li>
+</ol>
 
 <iframe src="https://uploads.knightlab.com/storymapjs/4830c7c3cde5b364a8af501af89d61c2/doctors-without-borders/index.html" frameborder="0" width="100%" height="800"></iframe>
