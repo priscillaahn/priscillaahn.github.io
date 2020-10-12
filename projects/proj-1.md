@@ -1,7 +1,9 @@
 ---
 layout: post
-title: 'Project One'
+title: 'Project One: Knightlab Timeline'
 ---
-Mauris velit metus, tempor gravida nulla eget, auctor accumsan tellus. Curabitur volutpat sed dolor quis tempus. In scelerisque aliquam felis at tincidunt. Proin non augue fringilla, [pretium justo vitae](#), maximus dui. Nunc ipsum nisi, fermentum sit amet volutpat cursus, sodales ac nisl. Quisque nec tellus sem. Cras pharetra felis non quam mollis, nec efficitur lectus aliquet. Maecenas ipsum felis, eleifend nec [semper venenatis](#), consequat ut nunc. Donec est augue, facilisis quis placerat sed, imperdiet sit amet neque. Maecenas nec risus metus. Nunc non condimentum ipsum. Phasellus consectetur dapibus massa, convallis iaculis nisi vestibulum id. Phasellus et fringilla augue. Donec consequat dui ut rutrum elementum. Aenean nisi arcu, ornare eu lacus vel, faucibus tempor tortor.
+For this project, we had to use the Knight Lab Foundation Timeline application to tell a chronological story.
+During my summer internship with UNOSAT, I had to monitor the controversial filling of the Grand Ethiopian Renaissance Dam over time.
+This lab was the perfect opportunity to research the background geopolitical conflict surrounding the dam that made it so controversial.
 
-<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1GX5jBHICKwmfcRMvFCdVDp17JRfAHpA--tf3s06sMCs&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
+<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1GX5jBHICKwmfcRMvFCdVDp17JRfAHpA--tf3s06sMCs&font=Default&lang=en&initial_zoom=2&height=650' width='150%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
