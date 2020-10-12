@@ -1,6 +1,6 @@
 # Priscilla Ahn IDCE30262: Web Mapping Website (Portfolio Jekyll Theme)
 
-This is a website to display lab assignments from Clark University's IDCE30262: Web Mapping course. The personal portfolio theme was created by [lenpaul](https://www.lenpaul.com/). You can check the template out [here](lenpaul.github.io/portfolio-jekyll-theme/).
+This is a website to display lab assignments from Clark University's IDCE30262: Web Mapping course. The Portfolio Jekyll Theme was created by [lenpaul](https://www.lenpaul.com/). You can check the template out [here](https://github.com/LeNPaul/portfolio-jekyll-theme).
 
 ## Credits
 
