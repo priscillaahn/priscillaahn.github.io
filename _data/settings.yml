@@ -41,8 +41,6 @@ disqus:
 about: >
   # About
 
-  ![me](/assets/img/me.png){:class="img-responsive"}
-  {% include image.html max-width="500px" image="assets/img/me.png" %}
   <img src="/assets/img/me.png" width="500" height="500">
   This is a website to display lab assignments from Clark University's IDCE30262: Web Mapping course. The personal portfolio theme was created by [lenpaul](https://www.lenpaul.com/). You can check the template out [here](lenpaul.github.io/portfolio-jekyll-theme/).
 
