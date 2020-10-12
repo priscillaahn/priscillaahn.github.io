@@ -42,8 +42,8 @@ disqus:
 about: >
   # Priscilla Ahn
 
-  <img src="{{ site.github.url }}/assets/me.png" width="500" height="500">
-  This is a website to display lab assignments from the IDCE30262: Web Mapping course. The personal portfolio theme was created using a template built by [lenpaul](https://www.lenpaul.com/). You can check the template out [here](lenpaul.github.io/portfolio-jekyll-theme/).
+  <img src="{{ site.github.url }}/assets/img/me.png" width="500" height="500">
+  This is a website to display lab assignments from Clark University's IDCE30262: Web Mapping course. The personal portfolio theme was created by [lenpaul](https://www.lenpaul.com/). You can check the template out [here](lenpaul.github.io/portfolio-jekyll-theme/).
 
 contact: >
   # Contact
