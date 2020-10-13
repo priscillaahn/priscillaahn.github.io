@@ -10,4 +10,4 @@ I chose to trace the founding of Doctors Without Borders (Medecins Sans Frontier
   <li> They're an international organization so their missions are spread throughout the world </li>
 </ol>
 
-<iframe src="https://uploads.knightlab.com/storymapjs/4830c7c3cde5b364a8af501af89d61c2/doctors-without-borders/index.html" frameborder="0" width="100%" height="800"></iframe>
+<iframe src="https://uploads.knightlab.com/storymapjs/4830c7c3cde5b364a8af501af89d61c2/doctors-without-borders/index.html" frameborder="0" width="100%" height="500"></iframe>
