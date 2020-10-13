@@ -41,7 +41,7 @@ disqus:
 about: >
   ## About
 
-  <img src="/assets/img/me.jpg" width="300" height="300">
+  <img src="/assets/img/me.jpg" width="500" height="500">
   This is a website to display lab assignments from Clark University's IDCE30262: Web Mapping course. The personal portfolio theme was created by [lenpaul](https://www.lenpaul.com/). You can check the template out [here](lenpaul.github.io/portfolio-jekyll-theme/).
 
 contact: >
