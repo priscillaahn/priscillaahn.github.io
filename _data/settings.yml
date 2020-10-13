@@ -39,13 +39,13 @@ disqus:
 # About Section
 
 about: >
-  # About
+  ## About
 
   <img src="/assets/img/me.jpg" width="300" height="300">
   This is a website to display lab assignments from Clark University's IDCE30262: Web Mapping course. The personal portfolio theme was created by [lenpaul](https://www.lenpaul.com/). You can check the template out [here](lenpaul.github.io/portfolio-jekyll-theme/).
 
 contact: >
-  # Contact
+  ## Contact
 
   You may contact me [through my email](mailto:pahn@clarku.edu).
 

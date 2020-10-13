@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Project One: Knightlab Timeline'
+title: 'Lab One: Knightlab Timeline'
 ---
 
 For this project, we had to use the Knight Lab Foundation Timeline application to tell a chronological story.

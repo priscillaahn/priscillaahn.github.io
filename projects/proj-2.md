@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Project Two: Knightlab Storymap'
+title: 'Lab Two: Knightlab Storymap'
 ---
 
 Similar to Project One, we had to use the Knight Lab Foundation Storymap application to tell a story with a spatial, geographic focus.

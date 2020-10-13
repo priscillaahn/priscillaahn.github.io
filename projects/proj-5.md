@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Project Five'
+title: 'Lab Five: GeoJSON'
 ---
 
 For this project, we learned how to create and embed a GeoJSON app. This web map highlights the green spaces along the [Worcester East-West Trail](https://www.parkspirit.org/the-eastwest-trail).
